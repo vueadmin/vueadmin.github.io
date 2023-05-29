@@ -1,0 +1,1 @@
+import{aP as e}from"./index-9d79f864.js";import{p as s}from"./index-d0be0c94.js";const r=e({id:"usePackagesStore",state:()=>({packagesList:Object.freeze(s)}),getters:{getPackagesList(){return this.packagesList}}});export{r as u};
