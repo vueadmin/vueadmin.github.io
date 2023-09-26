@@ -1,0 +1,1 @@
+import{bx as o,by as s,b1 as a}from"./index-20fb0306.js";const n=(e,r,t)=>e=o({},s(r,t),e),g=(e,r)=>(e.backgroundColor="rgba(0,0,0,0)",n(e,a,r)),l=(e,r)=>{if(!e)return;const t=e.getOption();t.dataset=null,e.setOption(r)};export{g as e,l as s};
